@@ -17,8 +17,8 @@ const BotName = 'RENDI BOT☄';
 const instagram = 'https://instagram.com/rendi_kurniawan02'; 
 const telegram = 'https://t.me/Rendi Kurniawan'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
-//const grupch1 = 'belum ada grup'; 
+const youtube = 'belum bikin yt';
+//const grupch1 = 'https://chat.whatsapp.com/HeatVjg7Uk2JZLRRt2idPh'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
